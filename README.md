@@ -219,7 +219,7 @@ By visualizing each step, it becomes clear how Tor creates a web of encrypted co
 
 ---
 
-[![https://github.com/lukeponga-dev/Tor-Onion-Services-Documentation/blob/main/Proposal%20Hidden%20Service%20Revocation.md]
+[Proposal](https://github.com/lukeponga-dev/Tor-Onion-Services-Documentation/blob/main/Proposal%20Hidden%20Service%20Revocation.md)
 
 
 
